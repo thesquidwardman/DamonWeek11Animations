@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/NewLevelPracticeSequence.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7C/1VDBR74H04Q46WOJ0XG2SX.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Animations/UrielAnimationBP.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Animations/UrielMoveBlendSpace.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/30/EG9H4V4AKVL31FTHPSLGQG.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UN/AG66KKI0OLZ9KKLH7AXQNV.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0S/UYS0OY8V9X8Z9M09BJ1BCU.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Animations/Dismissing_Gesture.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Animations/Hip_Hop_Dancing.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Animations/Running.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Animations/Standing_W_Briefcase_Idle.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Uriel_A_Plotexia.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Uriel_A_Plotexia_PhysicsAsset.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Uriel_A_Plotexia_Skeleton.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Uriel_diffuse.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Uriel_MAT.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Uriel_specular.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Animations/Walking.uasset",
+				"C:/Users/DAnderson1/Documents/Unreal Projects/Week11_Animation/Content/Animations/Wave_Hip_Hop_Dance.uasset"
+			]
+		}
+	]
+}
